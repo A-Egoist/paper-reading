@@ -4,25 +4,39 @@
 
 ### Popularity Bias
 
-*   [ ] PDA: Causal Intervention for Leveraging Popularity Bias in Recommendation. Xiangnan He et al. SIGIR, 2021. ([PDF](./PDF/2021-SIGIR-PDA.pdf)) ([Source](https://hexiangnan.github.io/papers/sigir21-PDA.pdf)) ([Code](https://github.com/zyang1580/PDA)) ([Slides](https://hexiangnan.github.io/slides/sigir21-PDA-slides.pdf)) (Citations 217)
-    *   
-*   [ ] TIDE: Popularity Bias Is Not Always Evil: Disentangling Benign and Harmful Bias for Recommendation. Xiangfan He et al. TKDE, 2023. ([PDF](./PDF/2023-TKDE-TIDE.pdf)) ([Source](https://hexiangnan.github.io/papers/tkde23-TIDE.pdf)) ([Code](https://github.com/zzhUSTC2016/TIDE)) (Citations 30)
-    *   
-*   [ ] MF-IPS: Recommendations as Treatments: Debiasing Learning and Evaluation. Schnabel T, Swaminathan A, Singh A, et al. ICML, 2016. ([PDF](./PDF/2016-ICML-MF-IPS.pdf))([Source](https://proceedings.mlr.press/v48/schnabel16.pdf))(Code)(Citation 638)
-    *   
-*   [ ] DICE: Disentangling user interest and conformity for recommendation with causal embedding. Zheng Y, Gao C, Li X, et al. WWW, 2021. ([PDF](./PDF/2021-WWW-DICE.pdf))([Source](https://arxiv.org/pdf/2006.11011.pdf))(Code)(Citation 227)
-    *   
+#### Model
+
+*   [x] PDA: Causal Intervention for Leveraging Popularity Bias in Recommendation. Xiangnan He et al. SIGIR, 2021. ([PDF](./PDF/2021-SIGIR-PDA.pdf)) ([Source](https://hexiangnan.github.io/papers/sigir21-PDA.pdf)) ([Code](https://github.com/zyang1580/PDA)) ([Slides](https://hexiangnan.github.io/slides/sigir21-PDA-slides.pdf)) (Citations 217)
+*   [x] TIDE: Popularity Bias Is Not Always Evil: Disentangling Benign and Harmful Bias for Recommendation. Xiangfan He et al. TKDE, 2023. ([PDF](./PDF/2023-TKDE-TIDE.pdf)) ([Source](https://hexiangnan.github.io/papers/tkde23-TIDE.pdf)) ([Code](https://github.com/zzhUSTC2016/TIDE)) (Citations 30)
+*   [x] MF-IPS: Recommendations as Treatments: Debiasing Learning and Evaluation. Schnabel T, Swaminathan A, Singh A, et al. ICML, 2016. ([PDF](./PDF/2016-ICML-MF-IPS.pdf))([Source](https://proceedings.mlr.press/v48/schnabel16.pdf))(Code)(Citation 638)
+*   [x] DICE: Disentangling user interest and conformity for recommendation with causal embedding. Zheng Y, Gao C, Li X, et al. WWW, 2021. ([PDF](./PDF/2021-WWW-DICE.pdf))([Source](https://arxiv.org/pdf/2006.11011.pdf))(Code)(Citation 227)
 *   [ ] MACR: Model-agnostic counterfactual reasoning for eliminating popularity bias in recommender system. Wei T, Feng F, Chen J, et al. KDD, 2021. ([PDF](./PDF/2021-KDD-MACR.pdf))([Source](https://arxiv.org/pdf/2010.15363.pdf))(Code)(Citation 202)
-    *   
 *   [ ] CauseE: Causal embeddings for recommendation. Bonner S, Vasile F. RecSys, 2018. ([PDF](./PDF/2018-RecSys-CauseE.pdf))([Source](https://arxiv.org/pdf/1706.07639.pdf))(Code)(Citation 245)
-    *   
     
 *   [ ] DCCL：Disentangled Causal Embedding With Contrastive Learning For Recommender System（快手 2023）
 *   [ ] DCRS：Disentangled Representation for Diversified Recommendations（字节 2023）
 *   [ ] Self-supervised Learning for Large-scale Item Recommendations（Google 2020）
 *   [ ] ESAM：discriminative domain adaptation with non-displayed items to improve long-tail performance（Alibaba 2020）
 *   [ ] Co-training Disentangled Domain Adaptation Network for Leveraging Popularity Bias in Recommenders（Alibaba 2022）
+
+#### Metrics
+
+
+
+#### Surver
+
+*   [ ] On the Generalizability and Predictability of Recommender Systems. NeurIPS, 2022.
+*   [ ] Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?
+*   [ ] Take a Fresh Look at Recommender Systems from an Evaluation Standpoint
 *   [ ] 
+
+#### Benchmark
+
+
+
+#### Framework
+
+
 
 ## Three-Way Decision
 
